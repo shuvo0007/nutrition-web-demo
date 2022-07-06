@@ -1,0 +1,29 @@
+
+body{
+  margin: 0px;
+  font-family: 'Delius', cursive;
+}
+
+
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.top-banner{
+  background-image: url(image/bg/top-banner-bg.jpg);
+  background-repeat: no-repeat;
+
+}
+
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-top: 20px;
+  padding-left: 2%;
+}
+
+.top-banner-img{
+  height: 100%;
+}
